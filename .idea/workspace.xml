@@ -42,7 +42,28 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Python.forloops">
+  <component name="RunManager" selected="Python.breakElseContinue">
+    <configuration name="breakElseContinue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IfProgramFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/breakElseContinue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IfProgramFlow" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +150,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.breakElseContinue" />
         <item itemvalue="Python.forloops" />
         <item itemvalue="Python.ifchallenge" />
         <item itemvalue="Python.exercise" />
@@ -162,22 +184,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="800" height="317" key="GridCell.Tab.0.bottom" timestamp="1579684755463">
+    <state width="684" height="317" key="GridCell.Tab.0.bottom" timestamp="1579686550395">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="800" height="317" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579684755463" />
-    <state width="800" height="317" key="GridCell.Tab.0.center" timestamp="1579684755462">
+    <state width="684" height="317" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579686550395" />
+    <state width="684" height="317" key="GridCell.Tab.0.center" timestamp="1579686550395">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="800" height="317" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579684755462" />
-    <state width="800" height="317" key="GridCell.Tab.0.left" timestamp="1579684755462">
+    <state width="684" height="317" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579686550395" />
+    <state width="684" height="317" key="GridCell.Tab.0.left" timestamp="1579686550394">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="800" height="317" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579684755462" />
-    <state width="800" height="317" key="GridCell.Tab.0.right" timestamp="1579684755462">
+    <state width="684" height="317" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579686550394" />
+    <state width="684" height="317" key="GridCell.Tab.0.right" timestamp="1579686550395">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="800" height="317" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579684755462" />
+    <state width="684" height="317" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579686550395" />
     <state width="615" height="228" key="GridCell.Tab.1.bottom" timestamp="1579683391810">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
