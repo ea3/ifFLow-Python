@@ -10,3 +10,11 @@ for i in range(0, len(number)):
 newNumber = int(cleanedNumber)
 print(f"The number is {newNumber}")
 
+for i in range(0, 100, 5):
+    print(i)
+
+for i in range(1, 13):
+    for j in range(1, 13):
+        print("{1} times {0} is {2}".format(i, j, i*j), end='\t')
+    print('')
+
