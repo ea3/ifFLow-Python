@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24f1594d-928d-4191-ada9-fc20e3ce2bda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifprogramflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifprogramflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Wk0laZjG3IDDugM61NPpSP8RzD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +42,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Python.exercise">
+  <component name="RunManager" selected="Python.ifchallenge">
     <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IfProgramFlow" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +56,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ifchallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IfProgramFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ifchallenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ifchallenge" />
         <item itemvalue="Python.exercise" />
         <item itemvalue="Python.ifprogramflow" />
       </list>
@@ -117,21 +140,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="585" height="271" key="GridCell.Tab.0.bottom" timestamp="1579680716488">
+    <state width="615" height="144" key="GridCell.Tab.0.bottom" timestamp="1579682141352">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="585" height="271" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579680716488" />
-    <state width="585" height="271" key="GridCell.Tab.0.center" timestamp="1579680716488">
+    <state width="615" height="144" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579682141352" />
+    <state width="615" height="144" key="GridCell.Tab.0.center" timestamp="1579682141352">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="585" height="271" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579680716488" />
-    <state width="585" height="271" key="GridCell.Tab.0.left" timestamp="1579680716487">
+    <state width="615" height="144" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579682141352" />
+    <state width="615" height="144" key="GridCell.Tab.0.left" timestamp="1579682141351">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="585" height="271" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579680716487" />
-    <state width="585" height="271" key="GridCell.Tab.0.right" timestamp="1579680716488">
+    <state width="615" height="144" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579682141351" />
+    <state width="615" height="144" key="GridCell.Tab.0.right" timestamp="1579682141352">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
-    <state width="585" height="271" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579680716488" />
+    <state width="615" height="144" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579682141352" />
+    <state width="615" height="228" key="GridCell.Tab.1.bottom" timestamp="1579681872085">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="615" height="228" key="GridCell.Tab.1.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1579681872085" />
+    <state width="615" height="228" key="GridCell.Tab.1.center" timestamp="1579681872085">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="615" height="228" key="GridCell.Tab.1.center/49.23.1631.1027@49.23.1631.1027" timestamp="1579681872085" />
+    <state width="615" height="228" key="GridCell.Tab.1.left" timestamp="1579681872084">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="615" height="228" key="GridCell.Tab.1.left/49.23.1631.1027@49.23.1631.1027" timestamp="1579681872084" />
+    <state width="615" height="228" key="GridCell.Tab.1.right" timestamp="1579681872085">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="615" height="228" key="GridCell.Tab.1.right/49.23.1631.1027@49.23.1631.1027" timestamp="1579681872085" />
   </component>
 </project>
